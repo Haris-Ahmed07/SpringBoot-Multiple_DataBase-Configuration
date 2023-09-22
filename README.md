@@ -60,17 +60,16 @@ The application will respond with the appropriate User objects or a confirmation
 
 This project serves as a basic example of how to configure a Spring Boot application to work with multiple databases. Depending on your specific requirements, you may need to customize the configurations and extend functionality to meet your application's needs.
 
-##Getting Started
+## Getting Started
 
 Getting started with your Spring Boot application is a breeze:
 
-Clone this repository to your local machine:
+1. Clone this repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/Haris-Ahmed07/SpringBoot-Multiple_DataBases-Configuration
+   ```bash
+   git clone https://github.com/Haris-Ahmed07/SpringBoot-Multiple_DataBases-Configuration
+
 Follow the step-by-step instructions provided in the README file for configuring and running your project.
-
 Contributions
 While this repository primarily focuses on configuration, we welcome contributions to improve and expand upon the existing setup. If you have suggestions or improvements, please follow our contribution guidelines.
 
@@ -78,4 +77,5 @@ License
 This project is open-source and licensed under the MIT License.
 
 GitHub Repository
+
 Feel free to use this structured description for your GitHub repository. It provides a clear and organized overview of your project's purpose and features.
